@@ -139,6 +139,8 @@ header {
     font-size: 16px;
     font-weight: 200;
     cursor: pointer;
+    background-color: white;
+    color: #ff5500;
 }
 .con-btn .btn1 {
     width: 20%;
@@ -149,4 +151,6 @@ header {
     font-size: 16px;
     font-weight: 200;
     cursor: pointer;
+    background-color: white;
+    color: #ff5500;
 }
